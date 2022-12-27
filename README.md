@@ -1,56 +1,32 @@
-# CodeIgniter 4 Framework
+# Program Pengisian KRS Berbasis WEB Menggunakan CI4
 
-## What is CodeIgniter?
+## Latar Belakang
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](http://codeigniter.com).
+Aplikasi pengisian KRS (Kartu Rencana Studi) merupakan sebuah sistem informasi yang digunakan oleh mahasiswa untuk mengelola dan mengatur jadwal kuliah mereka. Kompleksnya penginputan jadwal KRS yang berjumlah banyak, maka terciptalah ide agar dapat mempermudah para mahasiswa untuk memilih KRS pilihannya. Tentunya dengan website ini akan menambah efisiensi energi maupun materi karena mahasiswa dapat mengisi KRS secara online,
 
-This repository holds the distributable version of the framework,
-including the user guide. It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
+## Rumusan Masalah
 
-More information about the plans for version 4 can be found in [the announcement](http://forum.codeigniter.com/thread-62615.html) on the forums.
+1. Bagaimanacara mempermudah proses pengisian KRS bagi mahasiswa?
+2. Bagaimana cara mengurangi kemungkinan terjadinya kesalahan dalam pengisian KRS?
+3. Bagaimana cara mengurangi beban kerja kantor akademik yang terkait dengan pengisian KRS?
+4. Bagaimana cara meningkatkan efisiensi proses akademik melalui pengelolaan jadwal kuliah yang lebih baik?
+5. Bagaimana cara menyediakan informasi yang akurat dan up-to-date tentang jadwal kuliah bagi mahasiswa?
 
-The user guide corresponding to this version of the framework can be found
-[here](https://codeigniter4.github.io/userguide/).
+## Tujuan
 
+1. Mempermudah proses pengisian KRS bagi mahasiswa
+2. Mengurangi kemungkinan terjadinya kesalahan
+3. Mengurangi beban kerja kantor akademik
+4. Meningkatkan efisiensi proses akademik
+5. Menyediakan informasi yang akurat dan up-to-date
 
-## Important Change with index.php
+## Fitur Yang Ada
 
-`index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
-for better security and separation of components.
-
-This means that you should configure your web server to "point" to your project's *public* folder, and
-not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the
-framework are exposed.
-
-**Please** read the user guide for a better explanation of how CI4 works!
-
-## Repository Management
-
-We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
-
-This repository is a "distribution" one, built by our release preparation script.
-Problems with it can be raised on our forum, or as issues in the main repository.
-
-## Contributing
-
-We welcome contributions from the community.
-
-Please read the [*Contributing to CodeIgniter*](https://github.com/codeigniter4/CodeIgniter4/blob/develop/CONTRIBUTING.md) section in the development repository.
-
-## Server Requirements
-
-PHP version 7.4 or higher is required, with the following extensions installed::
-
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
-
-Additionally, make sure that the following extensions are enabled in your PHP:
-
-- json (enabled by default - don't turn it off)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
-- xml (enabled by default - don't turn it off)
+1. Login Admin dan Mahasiswa
+2. Admin
+   - Admin dapat membuat, mengedit, melihat, dan menghapus data yang terdiri dari data mahasiswa, fakultas, jurusan, semester dan mata kuliah
+3. Mahasiswa
+   - Mahasiswa dapat mengisi dan mengedit data pribadi mereka
+   - Mahasiswa dapat menambah KRS
+   - Mahasiswa dapat melihat KRS yang mereka ambil
+4. Logout
