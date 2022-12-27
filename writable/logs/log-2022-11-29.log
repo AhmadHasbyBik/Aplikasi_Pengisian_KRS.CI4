@@ -1,0 +1,23 @@
+CRITICAL - 2022-11-29 01:06:30 --> Invalid file: mahasiswa/dashbard.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('mahasiswa/dashbard.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('mahasiswa/dashbard', [], true)
+ 3 APPPATH\Controllers\Mahasiswa.php(23): view('mahasiswa/dashbard')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Mahasiswa->dashboard()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-29 01:06:44 --> Undefined variable: title
+in APPPATH\Views\layouts\admin_layout.php on line 8.
+ 1 APPPATH\Views\layouts\admin_layout.php(8): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: title', 'APPPATH\\Views\\layouts\\admin_layout.php', 8, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\layouts\\admin_layout.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('layouts/admin_layout', [], true)
+ 5 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('mahasiswa/dashboard', [], true)
+ 6 APPPATH\Controllers\Mahasiswa.php(23): view('mahasiswa/dashboard')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Mahasiswa->dashboard()
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mahasiswa))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')

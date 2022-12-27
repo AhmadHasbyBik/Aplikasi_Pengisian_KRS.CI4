@@ -1,0 +1,366 @@
+CRITICAL - 2022-11-27 00:11:43 --> Undefined property: App\Controllers\Matkul::$m_Jurusan
+in APPPATH\Controllers\Matkul.php on line 29.
+ 1 APPPATH\Controllers\Matkul.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Matkul::$m_Jurusan', 'APPPATH\\Controllers\\Matkul.php', 29, [])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 00:12:38 --> Undefined property: App\Controllers\Matkul::$m_Jurusan
+in APPPATH\Controllers\Matkul.php on line 31.
+ 1 APPPATH\Controllers\Matkul.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Matkul::$m_Jurusan', 'APPPATH\\Controllers\\Matkul.php', 31, [])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 00:12:52 --> Undefined property: App\Controllers\Matkul::$m_Jurusan
+in APPPATH\Controllers\Matkul.php on line 31.
+ 1 APPPATH\Controllers\Matkul.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Matkul::$m_Jurusan', 'APPPATH\\Controllers\\Matkul.php', 31, [])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 00:13:19 --> Undefined property: App\Controllers\Matkul::$m_Jurusan
+in APPPATH\Controllers\Matkul.php on line 31.
+ 1 APPPATH\Controllers\Matkul.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined property: App\\Controllers\\Matkul::$m_Jurusan', 'APPPATH\\Controllers\\Matkul.php', 31, [])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 00:14:10 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Matkul.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 00:16:04 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Matkul.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 00:21:53 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Matkul.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 00:21:56 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Matkul.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 00:41:04 --> Call to a member function findAll() on null
+in APPPATH\Controllers\Matkul.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 00:41:37 --> Undefined variable: dataFakultas
+in APPPATH\Views\matkul\tambah.php on line 52.
+ 1 APPPATH\Views\matkul\tambah.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: dataFakultas', 'APPPATH\\Views\\matkul\\tambah.php', 52, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\matkul\\tambah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('matkul/tambah', [], true)
+ 5 APPPATH\Controllers\Matkul.php(38): view('matkul/tambah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 00:42:09 --> Undefined variable: dataFakultas
+in APPPATH\Views\matkul\tambah.php on line 52.
+ 1 APPPATH\Views\matkul\tambah.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: dataFakultas', 'APPPATH\\Views\\matkul\\tambah.php', 52, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\matkul\\tambah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('matkul/tambah', [], true)
+ 5 APPPATH\Controllers\Matkul.php(38): view('matkul/tambah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 00:42:23 --> Undefined variable: dataFakultas
+in APPPATH\Views\matkul\tambah.php on line 52.
+ 1 APPPATH\Views\matkul\tambah.php(52): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: dataFakultas', 'APPPATH\\Views\\matkul\\tambah.php', 52, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\matkul\\tambah.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('matkul/tambah', [], true)
+ 5 APPPATH\Controllers\Matkul.php(38): view('matkul/tambah', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 00:51:21 --> syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+in APPPATH\Views\matkul\tambah.php on line 52.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('matkul/tambah', [], true)
+ 3 APPPATH\Controllers\Matkul.php(38): view('matkul/tambah', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 00:53:11 --> syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file
+in APPPATH\Views\matkul\tambah.php on line 52.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('matkul/tambah', [], true)
+ 3 APPPATH\Controllers\Matkul.php(38): view('matkul/tambah', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 01:03:31 --> Invalid file: matakuliah/tambah.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('matakuliah/tambah.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('matakuliah/tambah', [], true)
+ 3 APPPATH\Controllers\Matkul.php(38): view('matakuliah/tambah', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 01:04:21 --> Invalid file: matakuliah/tambah.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('matakuliah/tambah.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('matakuliah/tambah', [], true)
+ 3 APPPATH\Controllers\Matkul.php(38): view('matakuliah/tambah', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 01:04:36 --> Invalid file: matakuliah/tambah.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('matakuliah/tambah.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('matakuliah/tambah', [], true)
+ 3 APPPATH\Controllers\Matkul.php(38): view('matakuliah/tambah', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->tambahMatkul()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 01:12:34 --> Undefined variable: kode_Matkul
+in APPPATH\Controllers\Matkul.php on line 47.
+ 1 APPPATH\Controllers\Matkul.php(47): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: kode_Matkul', 'APPPATH\\Controllers\\Matkul.php', 47, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->editMatkul('MTKS1SMTR1')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 01:14:41 --> Undefined variable: kode_Matkul
+in APPPATH\Controllers\Matkul.php on line 45.
+ 1 APPPATH\Controllers\Matkul.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: kode_Matkul', 'APPPATH\\Controllers\\Matkul.php', 45, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->editMatkul('MTKS1SMTR1')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 01:19:35 --> Undefined variable: kode_Matkul
+in APPPATH\Controllers\Matkul.php on line 45.
+ 1 APPPATH\Controllers\Matkul.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: kode_Matkul', 'APPPATH\\Controllers\\Matkul.php', 45, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->editMatkul('MTKS1SMTR1')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 01:21:32 --> Undefined variable: kode_Matkul
+in APPPATH\Controllers\Matkul.php on line 45.
+ 1 APPPATH\Controllers\Matkul.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: kode_Matkul', 'APPPATH\\Controllers\\Matkul.php', 45, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->editMatkul('MTKS1SMTR1')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 01:22:29 --> Undefined variable: kode_Matkul
+in APPPATH\Controllers\Matkul.php on line 45.
+ 1 APPPATH\Controllers\Matkul.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: kode_Matkul', 'APPPATH\\Controllers\\Matkul.php', 45, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->editMatkul('MTKS1SMTR1')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 01:22:49 --> Use of undefined constant kode_matkul - assumed 'kode_matkul' (this will throw an Error in a future version of PHP)
+in APPPATH\Controllers\Matkul.php on line 45.
+ 1 APPPATH\Controllers\Matkul.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefined constant kode_matkul - assumed \'kode_matkul\' (this will throw an Error in a future version of PHP)', 'APPPATH\\Controllers\\Matkul.php', 45, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->editMatkul('MTKS1SMTR1')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 01:23:10 --> Undefined variable: kode_Matkul
+in APPPATH\Controllers\Matkul.php on line 45.
+ 1 APPPATH\Controllers\Matkul.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: kode_Matkul', 'APPPATH\\Controllers\\Matkul.php', 45, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->editMatkul('MTKS1SMTR1')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 01:23:45 --> Undefined variable: kode_Matkul
+in APPPATH\Controllers\Matkul.php on line 45.
+ 1 APPPATH\Controllers\Matkul.php(45): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: kode_Matkul', 'APPPATH\\Controllers\\Matkul.php', 45, [...])
+ 2 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->editMatkul('MTKS1SMTR1')
+ 3 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 4 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 01:24:58 --> Undefined variable: jurusan
+in APPPATH\Views\matkul\edit.php on line 28.
+ 1 APPPATH\Views\matkul\edit.php(28): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: jurusan', 'APPPATH\\Views\\matkul\\edit.php', 28, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\matkul\\edit.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('matkul/edit', [], true)
+ 5 APPPATH\Controllers\Matkul.php(50): view('matkul/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->editMatkul('MTKS1SMTR1')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 01:42:20 --> Undefined variable: dataFakultas
+in APPPATH\Views\matkul\edit.php on line 76.
+ 1 APPPATH\Views\matkul\edit.php(76): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: dataFakultas', 'APPPATH\\Views\\matkul\\edit.php', 76, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\matkul\\edit.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('matkul/edit', [], true)
+ 5 APPPATH\Controllers\Matkul.php(50): view('matkul/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->editMatkul('MTKS1SMTR1')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 01:50:19 --> syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+in APPPATH\Views\matkul\edit.php on line 61.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('matkul/edit', [], true)
+ 3 APPPATH\Controllers\Matkul.php(50): view('matkul/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->editMatkul('MTKS1SMTR1')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 01:50:46 --> syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF)
+in APPPATH\Views\matkul\edit.php on line 61.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('matkul/edit', [], true)
+ 3 APPPATH\Controllers\Matkul.php(50): view('matkul/edit', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Matkul->editMatkul('MTKS1SMTR1')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Matkul))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 01:55:51 --> Invalid file: admin/dashboard.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/dashboard.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('admin/dashboard', [], true)
+ 3 APPPATH\Controllers\Admin.php(10): view('admin/dashboard')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Admin->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 23:38:06 --> Class 'App\Models\m_Mahasiswa' not found
+in APPPATH\Controllers\Mahasiswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Mahasiswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 23:38:21 --> Class 'App\Models\m_Mahasiswa' not found
+in APPPATH\Controllers\Mahasiswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Mahasiswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 23:39:11 --> Class 'App\Models\m_Mahasiswa' not found
+in APPPATH\Controllers\Mahasiswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Mahasiswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 23:40:57 --> Class 'App\Models\m_Mahasiswa' not found
+in APPPATH\Controllers\Mahasiswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Mahasiswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 23:41:01 --> Class 'App\Models\m_Mahasiswa' not found
+in APPPATH\Controllers\Mahasiswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Mahasiswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 23:41:29 --> Class 'App\Models\m_Mahasiswa' not found
+in APPPATH\Controllers\Mahasiswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Mahasiswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 23:43:23 --> Class 'App\Models\m_Mahasiswa' not found
+in APPPATH\Controllers\Mahasiswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Mahasiswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 23:44:04 --> Class 'App\Models\m_Mahasiswa' not found
+in APPPATH\Controllers\Mahasiswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Mahasiswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 23:45:23 --> Class 'App\Models\m_Mahasiswa' not found
+in APPPATH\Controllers\Mahasiswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Mahasiswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 23:47:46 --> Class 'App\Models\m_Mahasiswa' not found
+in APPPATH\Controllers\Mahasiswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Mahasiswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 23:48:15 --> Class 'App\Models\m_Mahasiswa' not found
+in APPPATH\Controllers\Mahasiswa.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Mahasiswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 23:59:35 --> syntax error, unexpected ''dataJurusan'' (T_CONSTANT_ENCAPSED_STRING), expecting ']'
+in APPPATH\Controllers\Mahasiswa.php on line 32.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(259): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Mahasiswa.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(237): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Mahasiswa')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Mahasiswa')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Mahasiswa')
+ 5 SYSTEMPATH\CodeIgniter.php(877): class_exists('\\App\\Controllers\\Mahasiswa', true)
+ 6 SYSTEMPATH\CodeIgniter.php(469): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
+CRITICAL - 2022-11-27 23:59:55 --> Class 'App\Controllers\m_Matkul' not found
+in APPPATH\Controllers\Mahasiswa.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(889): App\Controllers\Mahasiswa->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(473): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(46): require_once('FCPATH\\index.php')
