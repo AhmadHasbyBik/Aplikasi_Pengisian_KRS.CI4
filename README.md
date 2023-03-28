@@ -31,6 +31,7 @@ Aplikasi pengisian KRS (Kartu Rencana Studi) merupakan sebuah sistem informasi y
    - Mahasiswa dapat melihat KRS yang mereka ambil
 4. Logout
 
+## Page Mahasiswa
 ![Screenshot (426)](https://user-images.githubusercontent.com/91450054/228155266-381179d3-8080-462f-be67-9d60f5d6e447.png)
 ![Screenshot (427)](https://user-images.githubusercontent.com/91450054/228155285-0720f1af-6c10-4815-8061-98d4388f0212.png)
 ![Screenshot (428)](https://user-images.githubusercontent.com/91450054/228155299-579d93f9-5895-4ffa-8100-220b6083349c.png)
