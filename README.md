@@ -1,5 +1,4 @@
 # Program Pengisian KRS Berbasis WEB Menggunakan CI4
-1
 
 ## Latar Belakang
 
