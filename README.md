@@ -18,7 +18,7 @@ Aplikasi pengisian KRS (Kartu Rencana Studi) merupakan sebuah sistem informasi y
 2. Mengurangi kemungkinan terjadinya kesalahan
 3. Mengurangi beban kerja kantor akademik
 4. Meningkatkan efisiensi proses akademik
-5. Menyediakan informasi yang akurat dan up-to-date
+5. Menyediakan informasi yang akurat dan up-to-dates
 
 ## Fitur Yang Ada
 
